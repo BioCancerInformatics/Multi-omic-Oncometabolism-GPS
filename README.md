@@ -10,20 +10,16 @@ The app provides an integrative and user-friendly interface for exploring multi-
 **Abstract**
 Metabolic reprogramming underlies tumor progression, immune evasion, and resistance to regulated cell death, yet the higher-order regulatory logic that coordinates these processes across molecular layers remains poorly defined. We developed OncoMetabolismGPS, a multi-omic analytical framework that reconstructs a Pan-Cancer atlas of convergent and divergent metabolic regulatory circuitries. From 463,433 significant multi-omic and phenotypic associations across 33 tumor types, we derived 241,415 omic-specific metabolic signatures, each integrating metabolic pathway context with phenotypic, prognostic, and immune features. By mapping shared upstream regulators of these signatures, we identified 24,796 metabolic regulatory circuitries—classified as convergent when regulators and signatures act in the same biological direction, or divergent when they exhibit opposing associations. Divergent circuitry predominated, especially in immunosuppressive (cold) tumor contexts, revealing context-dependent regulatory compensation across metabolic, phenotypic, and clinical axes. The accompanying OncoMetabolismGPS Shiny application implements this atlas as an interactive platform that positions each signature and circuitry within a multidimensional coordinate space defined by molecular, phenotypic, immune, and clinical attributes, enabling systematic navigation of metabolic regulatory behavior in cancer. Together, this study establishes the first multi-omic atlas of metabolic regulatory circuitries, providing a conceptual and computational framework for dissecting metabolic plasticity, pathway dependencies, and therapeutic vulnerabilities across human cancers.
 
+The schematic below represents the conceptual framework used to guide the development of this application.
+
 <p align="center">
-  <img src="https://github.com/HigorACNogueira/Multi-omic-Oncometabolism-GPS/blob/main/TOC_Figure_55x50.tif" width="1000">
+  <img src="https://github.com/HigorACNogueira/Multi-omic-Oncometabolism-GPS/blob/main/www/Figure_1.png" width="1000">
 </p>
  
 ---
 
 ## 🔗 Link to Multi-omic-Oncometabolism-GPS
 - 🔥 [Online App](https://oncometabolismgps.shinyapps.io/Multi-omic-oncometabolism-GPS/)  
-
-The schematic below represents the conceptual framework used to guide the development of this application.
-
-<p align="center">
-  <img src="https://github.com/HigorACNogueira/Multi-omic-Oncometabolism-GPS/blob/main/Figure_1.tif" width="1000">
-</p>
 
 ---
 
