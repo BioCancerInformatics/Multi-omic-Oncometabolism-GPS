@@ -20,7 +20,7 @@ The schematic below represents the conceptual framework used to guide the develo
 ---
 
 ## 🔗 Link to Multi-omic-Oncometabolism-GPS
-- 🔥 [Online App](https://oncometabolismgps.shinyapps.io/Multi-omic-oncometabolism-GPS/)  
+- 🔥 [Online App](https://oncometabolismgps.shinyapps.io/Multi-omicOncometabolismGPSShiny/)  
 
 ---
 
