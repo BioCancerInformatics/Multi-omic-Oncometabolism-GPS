@@ -2,7 +2,7 @@
 
 **[Higor Almeida Cordeiro Nogueira](https://www.researchgate.net/profile/Higor-Cordeiro-Nogueira), [Emanuell de Souza Rodrigues](https://www.researchgate.net/profile/Emanuell-Rodrigues-De-Souza), [Victor dos Santos Lopes](https://www.linkedin.com/in/victor-lopes-880604377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app), [Enrique Medina-Acosta](https://www.researchgate.net/profile/Enrique-Medina-Acosta)**
 
-**Multi-omic OncoMetabolismGPS** is an interactive Shiny application developed as part of the research associated with the pre-print **A Multi-Omic Atlas of Convergent and Divergent Metabolic Regulatory Circuitries in Cancer**, available at **[BioRxiv]((https://www.biorxiv.org/content/10.1101/2025.11.15.688631v1))**
+**Multi-omic OncoMetabolismGPS** is an interactive Shiny application developed as part of the research associated with the pre-print **A Multi-Omic Atlas of Convergent and Divergent Metabolic Regulatory Circuitries in Cancer**, available at **[BioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.15.688631v1).**
 
 The app provides an integrative and user-friendly interface for exploring multi-omic metabolic signatures across cancer types, enabling dynamic visualization of meaningful interactions, phenotypic associations, survival metrics, and regulatory circuitries derived directly from the analyses presented in the paper. Below, we include the full abstract of the manuscript followed by the graphical abstract.
 
@@ -37,10 +37,6 @@ runApp()
 ## 📌 Citation
 
 If you use this repository, its datasets, analytical pipelines, figures, methods, or conceptual framework in your research, please cite:
-
-**Nogueira HAC**, **Rodrigues ES**, **Lopes VS**, **Medina-Acosta E**.  
-**A Multi-Omic Atlas of Convergent and Divergent Metabolic Regulatory Circuitries in Cancer.**  
-2025.
 
 **Nogueira, H. A. C.; Souza, E. R.; Lopes, V. S.; Medina-Acosta, E.** (2025) 
 **A Multi-Omic Atlas of Convergent and Divergent Metabolic Regulatory Circuitries in Cancer.** 
