@@ -1,0 +1,22 @@
+R version 4.2.1 (2022-06-23 ucrt)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19045)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=Portuguese_Brazil.utf8  LC_CTYPE=Portuguese_Brazil.utf8    LC_MONETARY=Portuguese_Brazil.utf8 LC_NUMERIC=C                       LC_TIME=Portuguese_Brazil.utf8    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] rio_1.0.1            fmsb_0.7.5           data.table_1.14.8    forcats_1.0.0        stringr_1.5.0        dplyr_1.1.1          purrr_1.0.1          tidyr_1.3.0          tibble_3.2.1         ggplot2_3.4.2        tidyverse_2.0.0     
+[12] lubridate_1.9.2      readr_2.1.4          UCSCXenaTools_1.4.8  UCSCXenaShiny_1.1.10
+
+loaded via a namespace (and not attached):
+ [1] tidyselect_1.2.0  lattice_0.20-45   colorspace_2.1-0  vctrs_0.6.1       generics_0.1.3    htmltools_0.5.5   utf8_1.2.3        rlang_1.1.0       R.oo_1.25.0       later_1.3.0       pillar_1.9.0      R.utils_2.12.2   
+[13] glue_1.6.2        withr_2.5.0       lifecycle_1.0.3   munsell_0.5.0     gtable_0.3.3      R.methodsS3_1.8.2 psych_2.3.6       tzdb_0.4.0        fastmap_1.1.1     httpuv_1.6.9      curl_5.0.0        parallel_4.2.1   
+[25] fansi_1.0.4       Rcpp_1.0.10       xtable_1.8-4      promises_1.2.0.1  scales_1.2.1      ppcor_1.1         jsonlite_1.8.4    farver_2.1.1      mime_0.12         mnormt_2.1.1      hms_1.1.3         digest_0.6.31    
+[37] stringi_1.7.12    shiny_1.7.4       grid_4.2.1        cli_3.6.1         tools_4.2.1       magrittr_2.0.3    pkgconfig_2.0.3   MASS_7.3-57       ellipsis_0.3.2    timechange_0.2.0  httr_1.4.5        R6_2.5.1         
+[49] nlme_3.1-157      compiler_4.2.1   
