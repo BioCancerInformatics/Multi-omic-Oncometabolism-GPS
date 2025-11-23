@@ -1,9 +1,9 @@
 # **Welcome to Multi-omic Oncometabolism GPS**
 
 **Authors:**  
-[Higor Almeida Cordeiro Nogueira](https://www.researchgate.net/profile/Higor-Cordeiro-Nogueira) •  
-[Emanuell de Souza Rodrigues](https://www.researchgate.net/profile/Emanuell-Rodrigues-De-Souza) •  
-[Victor dos Santos Lopes](https://www.linkedin.com/in/victor-lopes-880604377) •  
+[Higor Almeida Cordeiro Nogueira](https://www.researchgate.net/profile/Higor-Cordeiro-Nogueira)   
+[Emanuell de Souza Rodrigues](https://www.researchgate.net/profile/Emanuell-Rodrigues-De-Souza)   
+[Victor dos Santos Lopes](https://www.linkedin.com/in/victor-lopes-880604377)   
 [Enrique Medina-Acosta](https://www.researchgate.net/profile/Enrique-Medina-Acosta)
 
 ---
@@ -24,7 +24,7 @@ This platform supports hypothesis generation, biomarker discovery, and investiga
 ## 🧠 **Conceptual Framework**
 
 <p align="center">
-  <img src="https://github.com/HigorACNogueira/Multi-omic-Oncometabolism-GPS/blob/main/www/Figure_1.png" width="1000">
+  <img src="https://github.com/BioCancerInformatics/Multi-omic-Oncometabolism-GPS/blob/main/Multi-omic-oncometabolismGPS/www/Figure_1.png" width="1000">
 </p>
 
 ---
@@ -40,13 +40,13 @@ Short discussion about the scientific motivations behind OncoMetabolismGPS.
 
 <p align="center">
   <audio controls>
-    <source src="https://raw.githubusercontent.com/HigorACNogueira/Multi-omic-Oncometabolism-GPS/main/www/Podcast.m4a" type="audio/mp4">
+    <source src="https://github.com/BioCancerInformatics/Multi-omic-Oncometabolism-GPS/blob/main/Multi-omic-oncometabolismGPS/www/Podcast.m4a" type="audio/mp4">
     Your browser does not support the audio element.
   </audio>
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/HigorACNogueira/Multi-omic-Oncometabolism-GPS/main/www/Podcast.m4a"
+  <a href="https://github.com/BioCancerInformatics/Multi-omic-Oncometabolism-GPS/blob/main/Multi-omic-oncometabolismGPS/www/Podcast.m4a"
      download="Podcast.m4a"
      style="font-size:18px; background:#2c3e50; color:white; padding:10px 20px; border-radius:6px; text-decoration:none;">
      ⬇️ Download Podcast
@@ -59,7 +59,7 @@ Short discussion about the scientific motivations behind OncoMetabolismGPS.
 
 <p align="center">
   <video width="800" controls>
-    <source src="https://raw.githubusercontent.com/HigorACNogueira/Multi-omic-Oncometabolism-GPS/main/www/video.mp4" type="video/mp4">
+    <source src="https://github.com/BioCancerInformatics/Multi-omic-Oncometabolism-GPS/blob/main/Multi-omic-oncometabolismGPS/www/Presentation.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
