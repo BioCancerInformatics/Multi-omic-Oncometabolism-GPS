@@ -1,4 +1,4 @@
-# **Welcome to Multi-omic Oncometabolism GPS**
+# **Welcome to Multi-omic OncometabolismGPS**
 
 **Authors:**  
 [Higor Almeida Cordeiro Nogueira](https://www.researchgate.net/profile/Higor-Cordeiro-Nogueira)   
