@@ -40,13 +40,13 @@ Short discussion about the scientific motivations behind **OncoMetabolismGPS**.
 
 <p align="center">
   <audio controls>
-    <source src="https://raw.githubusercontent.com/BioCancerInformatics/Multi-omic-Oncometabolism-GPS/main/Multi-omic-oncometabolismGPS/www/Podcast.m4a" type="audio/mp4">
+    <source src="https://media.githubusercontent.com/media/BioCancerInformatics/Multi-omic-Oncometabolism-GPS/refs/heads/main/Multi-omic-oncometabolismGPS/www/Podcast.m4a" type="audio/mp4">
     Your browser does not support the audio element.
   </audio>
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/BioCancerInformatics/Multi-omic-Oncometabolism-GPS/main/Multi-omic-oncometabolismGPS/www/Podcast.m4a"
+  <a href="https://media.githubusercontent.com/media/BioCancerInformatics/Multi-omic-Oncometabolism-GPS/refs/heads/main/Multi-omic-oncometabolismGPS/www/Podcast.m4a"
      download="Podcast.m4a"
      style="
        font-size:18px; 
