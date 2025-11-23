@@ -1,5 +1,4 @@
-# **Multi-omic OncoMetabolismGPS — Shiny Application**
-### **A Multi-Omic Atlas of Convergent and Divergent Metabolic Regulatory Circuitries in Cancer**
+# **Welcome to Multi-omic Oncometabolism GPS**
 
 **Authors:**  
 [Higor Almeida Cordeiro Nogueira](https://www.researchgate.net/profile/Higor-Cordeiro-Nogueira) •  
@@ -11,8 +10,7 @@
 
 ## 🌐 **About the Project**
 
-**Multi-omic OncoMetabolismGPS** is an interactive Shiny application accompanying the preprint  
-📄 **A Multi-Omic Atlas of Convergent and Divergent Metabolic Regulatory Circuitries in Cancer**, available on **[BioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.15.688631v1)**.
+**Multi-omic OncoMetabolismGPS** is an interactive Shiny application developed as part of the research associated with the pre-print **A Multi-Omic Atlas of Convergent and Divergent Metabolic Regulatory Circuitries in Cancer**, available at **[BioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.15.688631v1).**
 
 The application enables exploration of multi-omic metabolic signatures and regulatory circuitries across 33 tumor types, integrating:
 - Genomic, transcriptomic, epigenomic, proteomic, mutational, and phenotypic data  
