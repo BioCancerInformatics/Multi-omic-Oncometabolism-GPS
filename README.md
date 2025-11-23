@@ -1,29 +1,75 @@
-# Welcome to Multi-omic Oncometabolism GPS Shiny
+# **Multi-omic OncoMetabolismGPS — Shiny Application**
+### **A Multi-Omic Atlas of Convergent and Divergent Metabolic Regulatory Circuitries in Cancer**
 
-**[Higor Almeida Cordeiro Nogueira](https://www.researchgate.net/profile/Higor-Cordeiro-Nogueira), [Emanuell de Souza Rodrigues](https://www.researchgate.net/profile/Emanuell-Rodrigues-De-Souza), [Victor dos Santos Lopes](https://www.linkedin.com/in/victor-lopes-880604377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app), [Enrique Medina-Acosta](https://www.researchgate.net/profile/Enrique-Medina-Acosta)**
+**Authors:**  
+[Higor Almeida Cordeiro Nogueira](https://www.researchgate.net/profile/Higor-Cordeiro-Nogueira) •  
+[Emanuell de Souza Rodrigues](https://www.researchgate.net/profile/Emanuell-Rodrigues-De-Souza) •  
+[Victor dos Santos Lopes](https://www.linkedin.com/in/victor-lopes-880604377) •  
+[Enrique Medina-Acosta](https://www.researchgate.net/profile/Enrique-Medina-Acosta)
 
-**Multi-omic OncoMetabolismGPS** is an interactive Shiny application developed as part of the research associated with the pre-print **A Multi-Omic Atlas of Convergent and Divergent Metabolic Regulatory Circuitries in Cancer**, available at **[BioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.15.688631v1).**
+---
 
-The app provides an integrative and user-friendly interface for exploring multi-omic metabolic signatures across cancer types, enabling dynamic visualization of meaningful interactions, phenotypic associations, survival metrics, and regulatory circuitries derived directly from the analyses presented in the paper. Below, we include the full abstract of the manuscript followed by the graphical abstract.
+## 🌐 **About the Project**
 
-**Abstract**
+**Multi-omic OncoMetabolismGPS** is an interactive Shiny application accompanying the preprint  
+📄 **A Multi-Omic Atlas of Convergent and Divergent Metabolic Regulatory Circuitries in Cancer**, available on **[BioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.15.688631v1)**.
 
-Metabolic reprogramming underlies tumor progression, immune evasion, and resistance to regulated cell death, yet the higher-order regulatory logic that coordinates these processes across molecular layers remains poorly defined. We developed OncoMetabolismGPS, a multi-omic analytical framework that reconstructs a Pan-Cancer atlas of convergent and divergent metabolic regulatory circuitries. From 463,433 significant multi-omic and phenotypic associations across 33 tumor types, we derived 241,415 omic-specific metabolic signatures, each integrating metabolic pathway context with phenotypic, prognostic, and immune features. By mapping shared upstream regulators of these signatures, we identified 24,796 metabolic regulatory circuitries—classified as convergent when regulators and signatures act in the same biological direction, or divergent when they exhibit opposing associations. Divergent circuitry predominated, especially in immunosuppressive (cold) tumor contexts, revealing context-dependent regulatory compensation across metabolic, phenotypic, and clinical axes. The accompanying OncoMetabolismGPS Shiny application implements this atlas as an interactive platform that positions each signature and circuitry within a multidimensional coordinate space defined by molecular, phenotypic, immune, and clinical attributes, enabling systematic navigation of metabolic regulatory behavior in cancer. Together, this study establishes the first multi-omic atlas of metabolic regulatory circuitries, providing a conceptual and computational framework for dissecting metabolic plasticity, pathway dependencies, and therapeutic vulnerabilities across human cancers.
+The application enables exploration of multi-omic metabolic signatures and regulatory circuitries across 33 tumor types, integrating:
+- Genomic, transcriptomic, epigenomic, proteomic, mutational, and phenotypic data  
+- Immune contexture profiles and clinical outcomes  
+- Directionality of regulatory relationships (convergent vs. divergent)
 
-The schematic below represents the conceptual framework used to guide the development of this application.
+This platform supports hypothesis generation, biomarker discovery, and investigation of metabolic therapeutic vulnerabilities in cancer.
+
+---
+
+## 🧠 **Conceptual Framework**
 
 <p align="center">
   <img src="https://github.com/HigorACNogueira/Multi-omic-Oncometabolism-GPS/blob/main/www/Figure_1.png" width="1000">
 </p>
- 
----
-
-## 🔗 Link to Multi-omic-Oncometabolism-GPS Shiny app
-- 🔥 [Online App](https://oncometabolismgps.shinyapps.io/Multi-omicOncometabolismGPSShiny/)  
 
 ---
 
-### ▶️ Run Locally
+## 🔗 **Access the Online Application**
+🚀 **Run in Browser**  
+https://oncometabolismgps.shinyapps.io/Multi-omicOncometabolismGPSShiny/
+
+---
+
+## 🎧 **Podcast Overview**
+Short discussion about the scientific motivations behind OncoMetabolismGPS.
+
+<p align="center">
+  <audio controls>
+    <source src="https://raw.githubusercontent.com/HigorACNogueira/Multi-omic-Oncometabolism-GPS/main/www/Podcast.m4a" type="audio/mp4">
+    Your browser does not support the audio element.
+  </audio>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/HigorACNogueira/Multi-omic-Oncometabolism-GPS/main/www/Podcast.m4a"
+     download="Podcast.m4a"
+     style="font-size:18px; background:#2c3e50; color:white; padding:10px 20px; border-radius:6px; text-decoration:none;">
+     ⬇️ Download Podcast
+  </a>
+</p>
+
+---
+
+## 🎥 **Project Presentation Video**
+
+<p align="center">
+  <video width="800" controls>
+    <source src="https://raw.githubusercontent.com/HigorACNogueira/Multi-omic-Oncometabolism-GPS/main/www/video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+---
+
+## 💻 **Run Locally in R**
+
 To launch this tool locally in R, download **Multi-omic-oncometabolismGPS paste**, modify the path to the parent directory of the source directory, and run the code.
 
 ```r
