@@ -6,7 +6,6 @@
 [Victor dos Santos Lopes](https://www.linkedin.com/in/victor-lopes-880604377)   
 [Enrique Medina-Acosta](https://www.researchgate.net/profile/Enrique-Medina-Acosta)
 
----
 
 ## 🌐 **About the Project**
 
@@ -19,7 +18,6 @@ The application enables exploration of multi-omic metabolic signatures and regul
 
 This platform supports hypothesis generation, biomarker discovery, and investigation of metabolic therapeutic vulnerabilities in cancer.
 
----
 
 ## 🧠 **Conceptual Framework**
 
@@ -27,7 +25,6 @@ This platform supports hypothesis generation, biomarker discovery, and investiga
   <img src="https://github.com/BioCancerInformatics/Multi-omic-Oncometabolism-GPS/blob/main/Multi-omic-oncometabolismGPS/www/Figure_1.png" width="1000">
 </p>
 
----
 
 ## 🔗 **Access the Online Application**
 🚀 **Run in Browser**  
@@ -62,17 +59,6 @@ Short discussion about the scientific motivations behind **OncoMetabolismGPS** a
   <a href="https://github.com/BioCancerInformatics/Multi-omic-Oncometabolism-GPS/releases/download/v1.0-media/Presentation.mp4" download="OncoMetabolismGPS_Presentation.mp4">
     ⬇️ Presentation Video (mp4)
   </a>
-</p>
-
----
-
-## 🎥 **Project Presentation Video**
-
-<p align="center">
-  <video width="800" controls>
-    <source src="https://github.com/BioCancerInformatics/Multi-omic-Oncometabolism-GPS/releases/download/v1.0-media/Presentation.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
 </p>
 
 ---
