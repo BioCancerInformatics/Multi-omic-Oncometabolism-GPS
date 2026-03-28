@@ -9,7 +9,7 @@
 
 ## 🌐 **About the Project**
 
-**Multi-omic OncoMetabolismGPS** is an interactive Shiny application developed as part of the research associated with the pre-print **A Multi-Omic Atlas of Convergent and Divergent Metabolic Regulatory Circuitries in Cancer**, available at **[BioRxiv](https://www.biorxiv.org/content/10.1101/2025.11.15.688631v1).**
+**Multi-omic OncoMetabolismGPS** is an interactive Shiny application developed as part of the research associated with the pre-print **A Pan-Cancer Atlas of Metabolic Regulatory Circuitries Integrating Multi-Omic, Immune, and Clinical Dimensions**, available at **[Research Square](https://doi.org/10.21203/rs.3.rs-8280481/v1).**
 
 The application enables exploration of multi-omic metabolic signatures and regulatory circuitries across 33 tumor types, integrating:
 - Genomic, transcriptomic, epigenomic, proteomic, mutational, and phenotypic data  
