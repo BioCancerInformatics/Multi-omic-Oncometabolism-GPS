@@ -1,1 +1,35 @@
+Supporting datasets
+Datasets S1–S5 detail the sequential progression of the analytical pipeline, advancing from primary empirical associations (S1) to annotated networks (S2), omics-specific metabolic signatures (S3), mapped regulatory interactions (S4), and definitively vetted metabolic regulatory circuitries (S5).
+
+Dataset S1.
+Primary matrix of all statistically significant associations (FDR-adjusted P < 0.05) linking transcriptomic, epigenomic, genetic, and proteomic features to MSI, TMB, and TSM phenotypes across 33 TCGA tumor types. This dataset establishes the foundational multi-omic association landscape that serves as the empirical basis for all subsequent integrative analyses.
+
+Dataset S2.
+Expanded high-resolution resource comprising 463,433 entries, generated from Dataset S1 by functionally annotating the associations to KEGG metabolic pathways, metabolism-linked RCD mechanisms, and experimentally validated regulatory networks. This expanded dataset captures the legitimate biological multi-mapping necessary to reflect the multifunctionality and intersecting roles of metabolic enzymes and non-coding RNA regulators.
+
+Dataset S3.
+Comprehensive compendium characterizing 241,415 omics-specific metabolic signatures reconstructed comprehensively across cancer types. Multi-component signatures capture elements that satisfy strict, fully concordant molecular, phenotypic, prognostic, and immune criteria. Single-component baseline signatures are retained when no additional targets fulfill these strict concordance thresholds. This dataset defines the structural metabolic landscape required to model higher-order regulatory logic.
+
+Dataset S4.
+A specialized atlas of 204,591 regulator–signature interactions, derived by intersecting the metabolic landscapes (Dataset S3) with experimentally validated miRNA–mRNA and lncRNA–mRNA correlation structures. Of all surveyed signatures, 84,270 exhibit at least one shared regulator. This captured multi-mapping architecture quantitatively reflects both the broad pleiotropy of non-coding regulatory RNAs and the distinct context-specificity of metabolic programming.
+
+Dataset S5.
+Comprehensive atlas of 24,796 metabolic regulatory circuitries, constructed by mapping the regulator–target interactions (Dataset S4) onto their corresponding omic-specific metabolic signatures (Dataset S3). Each circuitry represents a fully vetted regulator–target axis, systematically classified as either convergent or divergent based on its combined molecular, phenotypic, immunological, and prognostic profiles. Together, these circuitries define the core higher-order regulatory architecture characterized in this study.
+
+Supplementary Figure legends
+
+Figure S1. Pan-Cancer overview of metabolic signatures linked to key molecular tumor phenotypes. (A) Distribution across omic layers evidencing the proportional contribution of CNV, mutation, methylation, gene, protein, transcript, and miRNA expression data to signatures correlated with microsatellite instability, stemness, and tumor mutational burden. (B) Comparative analysis across metabolic pathways shows a strong enrichment for amino acid, carbohydrate, and energy metabolism. (C) Classification by metabolic cell death uncovers a predominance of ferroptosis, autophagy-dependent cell death, and apoptosis across tumor types with distinct molecular contexts.
+
+Figure S2. Pan-Cancer landscape of metabolic signatures according to tumor microenvironment profile. (A) Layer-wise partitioning highlights the contribution of CNV, mutation, methylation, gene, protein, transcript, and miRNA expression to anti-tumoral, dual, and pro-tumoral profiles. (B) Metabolic stratification reveals consistent representation of amino acid, carbohydrate, and energy metabolism across these biological categories. (C) Distinct cell death modalities—particularly ferroptosis, autophagy-dependent cell death, and apoptosis—emerge as characteristic mechanisms shaping the metabolic polarity of tumors.
+
+Figure S3. Immunometabolic distribution of signatures across immune phenotypes. (A) Relative contribution of CNV, mutation, methylation, gene, protein, transcript, and miRNA expression layers to signatures defining immune microenvironmental states. (B) Functional mapping of metabolic pathways shows dominance of amino acid, carbohydrate, and energy metabolism across immune subtypes. (C) Frequencies of metabolic cell death modes reveal apoptosis, oxeiptosis, and ferroptosis as major contributors to the immunometabolic architecture of tumors.
+
+Figure S4. Pan-Cancer profiles of metabolic signatures associated with overall survival. (A) Distribution across omic layers showing the representation of each data type (CNV, mutation, methylation, gene, protein, transcript, and miRNA expression) in protective versus risky signatures. (B) Functional classification shows enrichment in amino acid, carbohydrate, and energy metabolism pathways linked to patient outcomes. (C) Distinct death programs— ferroptosis, autophagy-dependent cell death, and apoptosis —are recurrently observed among survival-related metabolic modules.
+
+Figure S5. Metabolic signatures related to disease-specific survival in Cox regression across tumor types. (A) Omic-layer stratification showing the relative weight of CNV, mutation, methylation, gene, protein, transcript, and miRNA expression in protective and risky signatures. (B) Pathway-level decomposition reveals amino acid and energy metabolism as dominant axes in disease-specific metabolic control. (C) Analysis of metabolic cell death modalities identifies ferroptosis, autophagy-dependent cell death, and apoptosis as central components of prognostic regulation in disease-specific contexts.
+
+Figure S6. Distribution of metabolic signatures associated with disease-free interval in Cox regression across cancers. (A) Omic-level contribution analysis for CNV, mutation, methylation, gene, protein, transcript, and miRNA expression data between protective and risky signatures. (B) Comparative enrichment analysis shows consistent participation of amino acid, carbohydrate, and energy metabolism pathways across tumor types. (C) Ferroptosis, autophagy-dependent cell death, and apoptosis stand out as the most recurrent metabolic death mechanisms influencing recurrence-free survival.
+
+Figure S7. Pan-Cancer distribution of metabolic signatures associated with progression-free interval in Cox regression. (A) Contribution of CNV, mutation, methylation, gene, protein, transcript, and miRNA expression layers to protective and risky profiles derived from Cox regression. (B) Metabolic pathway distribution shows sustained dominance of amino acid, carbohydrate, and energy metabolism in progression dynamics. (C) Metabolic cell death characterization highlights ferroptosis, autophagy-dependent cell death, and apoptosis as the major determinants of tumor progression control across cancer types.
+
 
