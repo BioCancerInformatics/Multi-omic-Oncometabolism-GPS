@@ -32,7 +32,7 @@ Figure 4. Convergent and divergent regulatory circuitries across tumor contexts.
  
 Figure 5. Convergent metabolic regulatory circuitry in PAAD. In PAAD, a multi-element transcriptomic signature PAAD-8181.4.5.0.0.5.2.N.3.8.0.3.3—composed of ALDH7A1 transcripts ENST00000503281 and ENST00000553117 and annotated to the fatty-acid degradation pathway—forms a convergent circuitry with the paired regulatory signature PAAD-59.4.5.0.1.4.2.N.1.11.11.1.3, comprising hsa-let-7b-5p and hsa-miR-193b-3p. Both signatures showed negative associations with MSI (ρ = –0.46 and –0.38) and displayed coherent high-risk prognostic profiles across OS, DSS, and DFI survival metrics. Immunologically, each signature corresponded to a pro-tumoral, cold microenvironment, indicating reduced immune infiltration. This alignment across molecular, phenotypic, survival, and immune dimensions exemplifies a convergent metabolic regulatory circuitry in which metabolic and regulatory signatures act in the same biological direction within the tumor context.
 
-**Supplementary Figure legends**
+Supplementary Figure legends
 
 Figure S1. Pan-Cancer overview of metabolic signatures linked to key molecular tumor phenotypes. (A) Distribution across omic layers evidencing the proportional contribution of CNV, mutation, methylation, gene, protein, transcript, and miRNA expression data to signatures correlated with microsatellite instability, stemness, and tumor mutational burden. (B) Comparative analysis across metabolic pathways shows a strong enrichment for amino acid, carbohydrate, and energy metabolism. (C) Classification by metabolic cell death uncovers a predominance of ferroptosis, autophagy-dependent cell death, and apoptosis across tumor types with distinct molecular contexts.
 
