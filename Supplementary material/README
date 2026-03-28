@@ -48,4 +48,35 @@ Figure S6. Distribution of metabolic signatures associated with disease-free int
 
 Figure S7. Pan-Cancer distribution of metabolic signatures associated with progression-free interval in Cox regression. (A) Contribution of CNV, mutation, methylation, gene, protein, transcript, and miRNA expression layers to protective and risky profiles derived from Cox regression. (B) Metabolic pathway distribution shows sustained dominance of amino acid, carbohydrate, and energy metabolism in progression dynamics. (C) Metabolic cell death characterization highlights ferroptosis, autophagy-dependent cell death, and apoptosis as the major determinants of tumor progression control across cancer types.
 
-
+Supplementary Tables
+Table S1	KEGG Metabolic Pathways and Their 1,404 Enzyme-Coding Genes
+Table S2	Experimentally Supported microRNAs Regulating the 1,404 Enzyme-Coding Genes
+Table S3	Experimentally Supported lncRNAs Regulating the 1,406 Enzyme-Coding Genes
+Table S4	Transcript Isoforms Associated with Enzyme-Coding Genes
+Table S5	Transcript Isoforms Associated with Regulatory RNAs (lncRNAs)
+Table S6	Metabolic Regulated Cell Death (RCD) Mechanisms and Their Associated Genes
+Table S7	TCGA Tumor Abbreviations and Full Cancer Type Names
+Table S8	TCGA and GTEx cohort samples
+Table S9	Sample distribution and cancer type mapping across omic profiling layers
+Table S10	Functional Classification of Tumor-Infiltrating Immune and Stromal Cells with Supporting Evidence
+Table S11	Distribution of Significant Associations Between Omic Layers and Tumor Phenotypes (MSI, TMB, and Stemness) Across TCGA Cancer Types
+Table S12	Distribution of Significant Associations Across KEGG Metabolic Categories for Each Tumor Phenotype (MSI, TMB, and Stemness)
+Table S13	Distribution of Significant Associations Across Metabolic Cell Death Mechanisms for Each Tumor Phenotype (MSI, TMB, and Stemness)
+Table S14	Distribution of Metabolic Signatures Across Tumor Microenvironment Classes (Anti-tumoral, Dual, Pro-tumoral) by Omic Layer
+Table S15	Distribution of Metabolic Signatures Across Tumor Microenvironment Classes (Anti-tumoral, Dual, Pro-tumoral) by KEGG Metabolic Category
+Table S16	Distribution of Metabolic Signatures Across Tumor Microenvironment Classes (Anti-tumoral, Dual, Pro-tumoral) by Metabolic Cell Death Mechanism
+Table S17	Distribution of Metabolic Signatures Across Immune Classification Groups (Cold, Hot, Variable) by Omic Layer
+Table S18	Distribution of Metabolic Signatures Across Immune Classification Groups (Cold, Hot, Variable) by KEGG Metabolic Category
+Table S19	Distribution of Metabolic Signatures Across Immune Classification Groups (Cold, Hot, Variable) by Metabolic Cell Death Mechanism
+Table S20	Distribution of Metabolic Signatures Across Cox OS (Protective, Risky) by Omic Layer
+Table S21	Distribution of Metabolic Signatures Across Cox OS (Protective, Risky) by KEGG Metabolic Category
+Table S22	Distribution of Metabolic Signatures Across Cox OS (Protective, Risky) by Metabolic Cell Death Mechanism
+Table S23	Distribution of Metabolic Signatures Across Cox DSS Classes (Protective, Risky) by Omic Layer
+Table S24	Distribution of Metabolic Signatures Across Cox DSS Classes (Protective, Risky) by KEGG Metabolic Category
+Table S25	Distribution of Metabolic Signatures Across Cox DSS Classes (Protective, Risky) by Metabolic Cell Death Mechanism
+Table S26	Distribution of Metabolic Signatures Across Cox DFI Classes (Protective, Risky) by Omic Layer
+Table S27	Distribution of Metabolic Signatures Across Cox DFI Classes (Protective, Risky) by KEGG Metabolic Category
+Table S28	Distribution of Metabolic Signatures Across Cox DFI Classes (Protective, Risky) by Metabolic Cell Death Mechanism
+Table S29	Distribution of Metabolic Signatures Across Cox PFI Classes (Protective, Risky) by Omic Layer
+Table S30	Distribution of Metabolic Signatures Across Cox PFI Classes (Protective, Risky) by KEGG Metabolic Category
+Table S31	Distribution of Metabolic Signatures Across Cox PFI Classes (Protective, Risky) by Metabolic Cell Death Mechanism
