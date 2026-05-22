@@ -28,7 +28,7 @@ This platform supports hypothesis generation, biomarker discovery, and investiga
 
 ## 🔗 **Access the Online Application**
 🚀 **Run in Browser**  
-http://137.184.157.169:3838/oncometabolismgps/
+[https://oncometabolismgps.be/]
 
 ---
 
