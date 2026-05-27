@@ -83,6 +83,20 @@ Almeida Cordeiro Nogueira H., Rodrigues de Souza E., dos Santos Lopes V. and Med
 
 **Citing this work supports the continued development of this multi-omic atlas**.
 
+### BibTeX
+
+```bibtex
+@article{Nogueira2026OncoMetabolismGPS,
+  title={A pan-cancer atlas of metabolic regulatory circuitries integrating multi-omic, immune, and clinical dimensions},
+  author={Almeida Cordeiro Nogueira, Higor and Rodrigues de Souza, Emanuell and dos Santos Lopes, Victor and Medina-Acosta, Enrique},
+  journal={Frontiers in Molecular Biosciences},
+  year={2026},
+  volume={13},
+  pages={1845099},
+  doi={10.3389/fmolb.2026.1845099},
+  url={https://doi.org/10.3389/fmolb.2026.1845099}
+}
+```
 ---
 
 ## 🐞 Bug Reports
